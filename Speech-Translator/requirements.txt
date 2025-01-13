@@ -4,4 +4,4 @@ langcodes
 azure-ai-textanalytics
 azure-ai-translation-text
 azure-cognitiveservices-speech
-azure-core-credentials
+azure-core
